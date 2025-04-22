@@ -1,0 +1,4 @@
+{
+    "exports": "cluster-index.glsl",
+    "includes": "*.glsl"
+}
